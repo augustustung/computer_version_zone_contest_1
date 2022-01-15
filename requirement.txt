@@ -1,5 +1,5 @@
 # pip install -r requirements.txt
 
 # Base ----------------------------------------
-numpy=1.22.0
-opencv-python=4.5.5.62
+numpy>=1.22.0
+opencv-python>=4.5.5.62
