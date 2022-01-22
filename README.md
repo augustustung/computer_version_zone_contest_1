@@ -1,6 +1,6 @@
 ## [Drone Surveillance Contest](https://www.computervision.zone/dsc/)
 
-#### Although I found out about this contest late, I still try to build for studying.
+#### Although I found out this contest late, I still try to build for studying.
 
 - Thanks for [Itay Nave](https://github.com/NaveItay), who is the winner this contest, for sharing his idea and data set.
 - I used yolov4 for training model, you can check it out
